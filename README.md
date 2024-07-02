@@ -2,7 +2,9 @@
  Arduino robot arm 
 
 ### Video
-https://github.com/Pasindu-Jayasundara/Robo-Arm/assets/158612501/00e6f874-45b8-41d4-a30c-43de14a64d62
+
+https://github.com/Pasindu-Jayasundara/Robo-Arm/assets/158612501/85d1c921-34c0-476f-86cf-ff07f79be089
+
 
 ### Design
 
